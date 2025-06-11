@@ -1,0 +1,11 @@
+{
+  "name": "mini-ci-cd",
+  "version": "1.0.0",
+  "description": "Mini CI/CD Node.js App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Khushi Tiwari",
+  "license": "ISC"
+}
