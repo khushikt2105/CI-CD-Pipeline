@@ -12,5 +12,5 @@ This project demonstrates a basic CI/CD pipeline using Jenkins, GitHub, and Dock
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/khushit21/CI-CD-Pipeline.git
+git clone https://github.com/khushikt2105/CI-CD-Pipeline.git
 cd mini-ci-cd
